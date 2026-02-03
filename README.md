@@ -61,7 +61,7 @@ This `.asi` plugin allows you to automatically display your GTA SA-MP playing st
 ---
 
 ## 🏗️ Requirements
-* **ASI Loader** (e.g., Silent's ASI Loader)
+* **ASI Loader** ([e.g., Silent's ASI Loader](https://www.gtaall.com/gta-san-andreas/programs/135573-asi-loader-by-silent.html))
 * **Discord Desktop App** (Logged in)
 
 ## ⚖️ License
