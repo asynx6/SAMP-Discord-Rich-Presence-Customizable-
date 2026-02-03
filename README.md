@@ -1,7 +1,7 @@
 # 🎮 SAMP Discord Rich Presence (Customizable)
 *A lightweight and fully customizable Discord RPC plugin for SA-MP.*
 
-![Preview RPC](image/Screenshot.png)
+![Preview RPC](Image/Screenshot.png)
 ---
 
 ## 🇮🇩 Bahasa Indonesia
