@@ -1,6 +1,7 @@
 # 🎮 SAMP Discord Rich Presence (Customizable)
 *A lightweight and fully customizable Discord RPC plugin for SA-MP.*
 
+![Preview RPC](image/Screenshot.png)
 ---
 
 ## 🇮🇩 Bahasa Indonesia
@@ -52,6 +53,8 @@ This `.asi` plugin allows you to automatically display your GTA SA-MP playing st
 | **SmallImageKey** | Nama asset gambar kecil (ikon) | Asset name for the small image |
 | **ButtonLabel1** | Nama pada tombol pertama | Label for the first button |
 | **DiscordURL1** | Link tujuan tombol pertama | URL for the first button |
+| **ButtonLabe2** | Nama pada tombol kedua | Label for the second button |
+| **DiscordURL2** | Link tujuan tombol kedua | URL for the second button |
 | **EnableFilter** | 1 = Hanya server tertentu, 0 = Semua server | 1 = Specific server only, 0 = All servers |
 | **FilterName** | Kata kunci nama server untuk filter | Keyword for the server name filter |
 
