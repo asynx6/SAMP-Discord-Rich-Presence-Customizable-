@@ -68,4 +68,4 @@ This `.asi` plugin allows you to automatically display your GTA SA-MP playing st
 This project is licensed under the [MIT License](LICENSE).
 
 ---
-*Developed with ❤️ for the SA-MP Community.*
+*Developed for the SA-MP Community.*
